@@ -73,6 +73,15 @@
     height: 80vh;
   }
 
+     .ecommerce{
+         display: flex;
+         justify-content: center;
+         margin-top: 12px;
+     }
+     .ecommerce img {
+        
+     }
+
 
 
 
