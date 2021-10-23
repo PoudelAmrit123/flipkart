@@ -70,8 +70,7 @@
 
   main{
 
-   height : 82vh;
-       
+    height: 1000px;
   }
 
      .ecommerce{
@@ -79,9 +78,7 @@
          justify-content: center;
          margin-top: 12px;
      }
-     .ecommerce img {
-        
-     }
+     
 
 
 
