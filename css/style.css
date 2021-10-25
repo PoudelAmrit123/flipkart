@@ -106,7 +106,7 @@
 
   main{
 
-    height: 2000px;
+    height: 1650px;
   }
 
      .ecommerce{
@@ -180,28 +180,32 @@ margin-left: 18px;
 
 
 
-     
+    footer{
+        background-color: #2874f0;;
+        color: white;
+        height: 45vh;
+    
+       }
 
-
-
-
-
-
-
-
-
-  .flex-center{
+  .footer-center{
 
      display:  flex;
-     justify-content: center;
-     align-items: center;
+   
+  /* align-items: center;
+  
+     justify-content: center; */
+ 
+  
      font-family: 'Noto Serif Display', serif;
 
   
   }
-   footer{
-    background-color: #2874f0;;
-    color: white;
-    height: 12vh;
 
-   }
+  .copyright{
+      /* display: flex;
+      justify-content: center; */
+      margin-left: 130px;
+      margin-top: 240px;
+  
+  }
+  
