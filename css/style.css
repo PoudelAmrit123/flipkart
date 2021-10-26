@@ -245,6 +245,28 @@ margin-left: 18px;
 
    }
 
+   .fsociale{
+    
+  padding-top:18px;
+}
+ .facebookicon img {
+     border-radius: 1px;
+     /* background-color: black; */
+ }
+ .fbimg{
+   border-image: round;
+   margin-bottom: -11px;
+   padding-right: 2px;
+ 
+ }
+ .twimg{
+    padding-right: 2px;
+    margin-bottom: -11px;
+ }
+ 
+  .ytimg{
+    margin-bottom: -11px;
+  }
 
 
 
