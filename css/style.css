@@ -196,13 +196,63 @@ margin-left: 18px;
   
   }
 
-  .copyright{
-     
-      margin-left: 130px;
-      margin-top: 240px;
-  
-  }
+    .fcontainer{
+      
+       
+    }
+
   .fabout{
-      color:#717171 ;
+      color:#717171 ;  
+  
+      margin-top: 22px;
+      margin-left: -999px;
   }
+  .fhelp{
+    color:#717171 ;  
+    margin-top: -19px;
+    margin-left: -849px;
+  }
+
+   .fsocial{
+    color:#717171 ;  
+    margin-top: -19px;
+    margin-left: -707px;
+
+   }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  .copyright{
+/*      
+    margin-left: 126px; */
+    margin-left: 908px;
+    margin-top: 240px;
+
+
+}
  
