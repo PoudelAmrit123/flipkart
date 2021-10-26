@@ -196,27 +196,52 @@ margin-left: 18px;
   
   }
 
-    .fcontainer{
-      
-       
-    }
+ 
 
   .fabout{
       color:#717171 ;  
   
-      margin-top: 22px;
+      margin-top: 23px;
       margin-left: -999px;
   }
+  .faboute{
+      color: rgb(196, 211, 173);
+    padding-top: 8px;
+  }
+
+
+  .aboutcoln{
+    padding-top: 2px;
+  }
+
+
+
   .fhelp{
     color:#717171 ;  
-    margin-top: -19px;
-    margin-left: -849px;
+    margin-top: -146px;
+    margin-left: -801px;
   }
+   .fhelpe{
+    
+        color: rgb(196, 211, 173);
+      padding-top: 8px;
+  
+   }
+   .helpcoln{
+    padding-top: 3px;
+  }
+
+
+
+
+
+
+
 
    .fsocial{
     color:#717171 ;  
-    margin-top: -19px;
-    margin-left: -707px;
+    margin-top: -131px;
+    margin-left: -605px;
 
    }
 
