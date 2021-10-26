@@ -181,31 +181,28 @@ margin-left: 18px;
 
 
     footer{
-        background-color: #2874f0;;
+        background-color: #172337;
         color: white;
         height: 45vh;
-    
+     margin-right: 6px;
+     margin-left: 6px;
        }
 
   .footer-center{
 
      display:  flex;
-   
-  /* align-items: center;
-  
-     justify-content: center; */
- 
-  
-     font-family: 'Noto Serif Display', serif;
+   font-family: 'Noto Serif Display', serif;
 
   
   }
 
   .copyright{
-      /* display: flex;
-      justify-content: center; */
+     
       margin-left: 130px;
       margin-top: 240px;
   
   }
-  
+  .fabout{
+      color:#717171 ;
+  }
+ 
