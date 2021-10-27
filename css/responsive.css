@@ -79,3 +79,97 @@ margin-top: -100px;
 
 
 
+@media only screen and (max-width: 1038px) and (min-width: 810px) {
+
+     footer{
+
+   height: 30vh;
+     }
+
+
+
+     .fcontainer{
+
+      margin-left: 104px;
+    }
+
+
+.fhelp{
+    margin-left: -848px;
+  
+  }
+  
+
+ .fsocial{
+    margin-left: -689px;
+
+
+   }
+
+
+  .verticalline {
+
+    margin-left: 102px;
+  
+  }
+
+  .fmail{
+    margin-left: -564px; 
+
+   }
+
+    
+ .mess{
+
+    margin-left: -703px;
+    margin-top: 69px;
+    font-size: larger;
+    
+
+}
+
+   .logo{
+    margin-left: -19px;
+    margin-top: 9px;
+    font-size: larger;
+   }
+
+ nav{
+
+
+    display: flex;
+    flex-direction: row;
+ }
+
+  .navbar{
+      padding-inline: -52px;
+      margin-left: -23px;
+  }
+
+  .search {
+    margin-left: -10px;
+    height: 85px;
+    width: 10px;
+
+
+
+  }
+
+  .searchbtn{
+
+margin-left: 210px;
+margin-top: 18px;
+
+
+  }
+   .loginbox{
+    margin-left: 25px;
+    margin-top: 16px;
+
+   }
+
+
+}
+
+
+
