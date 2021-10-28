@@ -262,7 +262,7 @@ font-size: larger;
  }
  
 
- @media only screen and (max-width: 800px) and (min-width: 756px){
+ @media only screen and (max-width: 801px) and (min-width: 756px){
 
 
  
@@ -353,7 +353,7 @@ font-size: larger;
  }
 
 
- @media only screen and (max-width: 376px) {
+ @media only screen and (max-width: 428px) {
    
 
     nav ul {
@@ -391,13 +391,13 @@ font-size: larger;
  
    .searchbtn{
  
-    margin-top: 115px;
+    margin-top: 151px;
  
  
    }
     .loginbox{
      
-      margin-top: 112px;
+      margin-top: 149px;
       margin-left: -51px;
     }
 
@@ -466,70 +466,158 @@ margin-right: -93px;
       margin-left: 7px;
       margin-right: 7px;
      }
- .slides{
-
-  margin-left: -16px;
-  margin-right: -16px;
- }
 
 
+   .slide{
+    margin-left: 8px;
+    margin-right: 8px;
+   }
 
 
+      
+  footer{
 
+    height: 65vh;
+      }
+ 
+ 
+ 
+      .fcontainer{
+      
+        margin-left: 107px;
+     }
+ 
 
+   
+ 
+  .fsocial{
+     
+    margin-left: -1001px;
+    
+    margin-top: 125px;
+ 
+    }
+ 
+ 
+   .verticalline {
+ 
+    margin-left: 159px;
+    margin-top: -281px;
+   
+   }
+ 
+   .fmail{
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    
+    margin-left: -879px;
+    margin-top: -74px;
+ 
+    }
+ 
+     
+  .mess{
+ 
+    margin-left: -892px;
+    margin-top: 27px;
+     
+ 
+ } 
 
 
  }
+
+
+
+
+
+
+ 
+@media only screen and (max-width: 390px){
+
+
+
+  .searchbtn{
+ 
+    margin-top: 139px;
+ 
+ 
+   }
+    .loginbox{
+     
+      margin-top: 137px;
+
+
+    }
+
+
+
+}
+
+
+
+@media only screen and (max-width: 384px){
+
+
+
+  .searchbtn{
+ 
+    margin-top: 142px;
+ 
+ 
+   }
+    .loginbox{
+     
+      margin-top: 139px;
+
+
+    }
+
+
+
+}
+
+
+@media only screen and (max-width: 376px){
+
+
+
+  .searchbtn{
+ 
+    margin-top: 136px;
+ 
+ 
+   }
+    .loginbox{
+     
+      margin-top: 134px;
+
+
+    }
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
  
 
 
