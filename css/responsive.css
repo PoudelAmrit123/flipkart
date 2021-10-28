@@ -1,6 +1,10 @@
  @media screen and (max-width : 1198px) {
 
 
+  .ecommerce img{
+    width: 1198px;
+   }
+   
  .thanks {
     margin-top: auto;
  }
@@ -14,6 +18,12 @@
 
  @media screen and (max-width : 1172px){
 
+
+  
+  .ecommerce img{
+    width: 1172px;
+   }
+   
     .thanks {
         margin-left: -20px;
      }
@@ -23,6 +33,12 @@
 
  @media screen and (max-width : 1152px){
  
+
+  
+  .ecommerce img{
+    width: 1152px;
+   }
+   
       .copyright{
         margin-left: 871px;
       }
@@ -30,6 +46,12 @@
  }
 
  @media screen and (max-width : 1140px){
+
+  
+  .ecommerce img{
+    width: 1140px;
+   }
+   
 
     .copyright{
         margin-left: 850px;
@@ -354,7 +376,12 @@ font-size: larger;
 
 
  @media only screen and (max-width: 428px) {
+
+   .ecommerce img{
+    width: 427px;
+   }
    
+
 
     nav ul {
       height: 28vh;
@@ -535,7 +562,10 @@ margin-right: -93px;
 @media only screen and (max-width: 390px){
 
 
-
+  .ecommerce img{
+    width: 390px;
+   }
+   
   .searchbtn{
  
     margin-top: 139px;
@@ -580,6 +610,10 @@ margin-right: -93px;
 @media only screen and (max-width: 376px){
 
 
+  .ecommerce img{
+    width: 376px;
+   }
+   
 
   .searchbtn{
  
