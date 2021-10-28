@@ -353,7 +353,7 @@ font-size: larger;
  }
 
 
- @media only screen and (min-width: 375px) {
+ @media only screen and (max-width: 376px) {
    
 
     nav ul {
@@ -373,31 +373,104 @@ font-size: larger;
 
     }
  
-  nav{
   
- 
-  }
+   .navbar{
+
+    margin-left: -204px;
+    font-size: larger;
+   }
  
   
    .search {
-   
+    margin-left: -375px;
+    margin-top: 94px;
+    width: 249px;
     
  
    }
  
    .searchbtn{
  
-   
+    margin-top: 115px;
  
  
    }
     .loginbox{
      
-     
+      margin-top: 112px;
+      margin-left: -51px;
     }
- 
 
 
+
+  
+    .slide{
+
+
+      overflow-x: auto;
+
+    }
+    .carditem1{
+
+    margin-left:400px;
+    
+      
+      
+         }
+   .carditem2{
+
+    padding-left: 21px;
+          
+            
+            
+          }
+          .carditem3{
+
+       
+            padding-left: 21px;  
+                  
+                  
+         }
+
+
+
+       .carditem4{
+
+  
+        padding-left: 21px;
+        padding-right: 21px;           
+                        
+                        
+     }
+                           
+                           
+       .carditem5{
+
+        padding-right: 21px;
+                            
+                              
+            }       
+
+
+      
+   .carditem{
+
+
+margin-right: -93px;
+
+
+   }
+
+
+     .header{
+      margin-left: 7px;
+      margin-right: 7px;
+     }
+ .slides{
+
+  margin-left: -16px;
+  margin-right: -16px;
+ }
 
 
 

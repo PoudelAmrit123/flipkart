@@ -10,98 +10,97 @@
 
     background-color:  #f0f0f0;
  }
-  header {
-      background-color: #2874f0;;
+header {
+      background-color: #2874f0;
 
-   
+}
+nav {
+  display:  flex;
  
-  }
-   nav {
-       display:  flex;
-      
-   }
-    .logo{
-        display: flex;
-        align-items: center;
+}
+.logo{
+   display: flex;
+   align-items: center;
 
-    }
-    .logo img {
+}
+.logo img {
 
-        padding: 0 32px;
-        width: 63px;
-    }
-  nav ul {
-      display: flex;
-      justify-content: flex-start;
-      align-items: center;
+   padding: 0 32px;
+   width: 63px;
+}
+nav ul {
+ display: flex;
+ justify-content: flex-start;
+ align-items: center;
 
-      list-style: none;
-         height: 8vh;
-    }
-   
+ list-style: none;
+    height: 8vh;
+}
+
+
+nav ul li a {
+   color: white;
+text-decoration: none;
+ padding:  0 18px;
+
+}
+nav ul li a:hover{
+color: rgb(196, 211, 173);
+}
+
+.search{
+   display: flex;
+   align-items: center;
   
-    nav ul li a {
-        color: white;
-     text-decoration: none;
-      padding:  0 18px;
-     
-    }
-    nav ul li a:hover{
-     color: rgb(196, 211, 173);
-    }
+  
+}
+.search input {
+    width: 400px;
+    height: 22px;
+    border-radius: 1px;
+    margin-left: 62px;
+    padding-left: 12px;
+}
+.searchbtn{
+    
+    padding-top: 11px;
+    cursor:pointer;
+    padding-left: 0px;
+    
+}
+.loginbox{
 
-    .search{
-        display: flex;
-        align-items: center;
-       
-       
-    }
-     .search input {
-         width: 400px;
-         height: 22px;
-         border-radius: 1px;
-         margin-left: 62px;
-         padding-left: 12px;
-     }
-     .searchbtn{
-         
-         padding-top: 11px;
-         cursor:pointer;
-         padding-left: 0px;
-         
-     }
-     .loginbox{
 
- 
- padding-left: 80px;
- padding-top: 11px;
- 
-    }
+padding-left: 80px;
+padding-top: 11px;
+
+}
 .logintext{
 
- color: #2874f0;
-    margin-left: -60px;
-    margin-top: -9PX;
+color: #2874f0;
+margin-left: -60px;
+margin-top: -9PX;
 
 
 }
-      .login {
+ .login {
 
-         display: flex;
-       
-         align-items: center;
-      
-    padding-left: 80px;
-    padding-top: 11px;
-    
-    
-    height: 28px;
-    width: 90px;
-    color: blue;
-    font-size: larger;
-    cursor: pointer;
-      }
-     
+    display: flex;
+  
+    align-items: center;
+ 
+padding-left: 80px;
+padding-top: 11px;
+
+
+height: 28px;
+width: 90px;
+color: blue;
+font-size: larger;
+cursor: pointer;
+ }
+
+ 
  
 
   main{
@@ -144,6 +143,65 @@
    background-color: #fff;
 
     }
+     .carditem1{
+
+     
+      width: 140px;
+      margin: auto;
+      transition: .5s;
+ 
+      }
+      
+      .carditem2{
+
+     
+        width: 140px;
+        margin: auto;
+        transition: .5s;
+   
+        }
+
+
+        .carditem3{
+
+     
+          width: 140px;
+          margin: auto;
+          transition: .5s;
+     
+          }
+
+          .carditem4{
+
+     
+            width: 140px;
+            margin: auto;
+            transition: .5s;
+       
+            }
+
+            .carditem5{
+
+     
+              width: 140px;
+              margin: auto;
+              transition: .5s;
+         
+              }
+
+              .carditem6{
+
+     
+                width: 140px;
+                margin: auto;
+                transition: .5s;
+           
+                }
+    
+
+
+     
+
      .carditem{
 
      
