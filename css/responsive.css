@@ -173,3 +173,228 @@ margin-top: 18px;
 
 
 
+@media only screen and (max-width: 810px) and (min-width: 800px) {
+
+
+  footer{
+
+    height: 30vh;
+      }
+ 
+ 
+ 
+      .fcontainer{
+        margin-left: 108px;
+       
+     }
+ 
+ 
+ .fhelp{
+  margin-left: -848px; 
+   
+   }
+   
+ 
+  .fsocial{
+     
+    margin-left: -693px;
+ 
+    }
+ 
+ 
+   .verticalline {
+ 
+    margin-left: 115px;
+   
+   }
+ 
+   .fmail{
+
+    margin-left: -548px;
+   
+ 
+    }
+ 
+     
+  .mess{
+ 
+    margin-left: -692px;
+    margin-top: 46px;
+    font-size: larger;
+    
+     
+ 
+ }
+ 
+    .logo{
+
+     margin-left: -19px;
+margin-top: 9px;
+font-size: larger;
+    }
+ 
+  nav{
+    display: flex;
+ 
+  }
+ 
+  
+   .search {
+   
+    margin-left: -59px;
+    width: 293px;
+ 
+ 
+   }
+ 
+   .searchbtn{
+ 
+    margin-top: 26px;
+ 
+ 
+   }
+    .loginbox{
+      margin-top: 25px;
+ 
+    }
+ 
+ 
+ }
+ 
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
