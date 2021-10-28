@@ -210,10 +210,39 @@ cursor: pointer;
      transition: .5s;
 
      }
-     .carditem:hover{
+     .carditem1:hover{
      transform: scale(1.03);
      border: 1px solid #f0f0f0;
      }
+
+     .carditem2:hover{
+      transform: scale(1.03);
+      border: 1px solid #f0f0f0;
+      }
+
+      .carditem3:hover{
+        transform: scale(1.03);
+        border: 1px solid #f0f0f0;
+        }
+
+        .carditem4:hover{
+          transform: scale(1.03);
+          border: 1px solid #f0f0f0;
+          }
+
+          .carditem5:hover{
+            transform: scale(1.03);
+            border: 1px solid #f0f0f0;
+            }
+
+            .carditem6:hover{
+              transform: scale(1.03);
+              border: 1px solid #f0f0f0;
+              }
+
+
+
+
      .carditem img {
 margin-left: 18px;
      }
